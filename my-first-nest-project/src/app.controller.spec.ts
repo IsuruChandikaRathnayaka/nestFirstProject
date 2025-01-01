@@ -19,4 +19,4 @@ describe('AppController', () => {
       expect(appController.getHello()).toBe('Hello World!');
     });
   });
-});
+});//this is the class one who handles the HTTP requests!
